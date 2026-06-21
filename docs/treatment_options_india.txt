@@ -1,0 +1,137 @@
+UNDERSTANDING TREATMENT OPTIONS FOR MENTAL HEALTH IN INDIA
+===========================================================
+
+Knowing what kind of help exists — and what to expect from it — makes reaching out much less overwhelming.
+
+TYPES OF MENTAL HEALTH PROFESSIONALS
+--------------------------------------
+
+Psychiatrist:
+- A medical doctor (MBBS + MD/DNB in Psychiatry)
+- The only mental health professional who can prescribe medication in India
+- Trained in diagnosis, medication management, and clinical assessment
+- Does not usually provide weekly therapy — more focused on medication review and diagnosis
+- First appointment is often longer (45–60 minutes), follow-ups shorter (15–30 minutes)
+- Government hospitals have psychiatrists; private psychiatrists also exist
+
+Clinical Psychologist:
+- Holds an MPhil or PhD in Clinical Psychology, registered with the RCI (Rehabilitation Council of India)
+- Provides therapy, psychological testing, and ADHD/learning disability assessments
+- Cannot prescribe medication
+- Typically works in longer sessions (50–60 minutes) over multiple weeks or months
+- The person to look for if you want ongoing therapy
+
+Counsellor / Psychotherapist:
+- Training varies significantly — qualifications range from short courses to full master's programmes
+- Provides talk-based support, often shorter-term
+- Not RCI-regulated (unlike clinical psychologists), so credentials matter more here
+- Can be a genuinely good source of support for mild to moderate concerns
+
+TYPES OF THERAPY: WHAT THEY ARE AND WHEN THEY HELP
+-----------------------------------------------------
+
+Cognitive Behavioural Therapy (CBT):
+- Explores the connection between thoughts, feelings, and behaviours
+- Identifies unhelpful thinking patterns (catastrophising, all-or-nothing thinking, mind-reading) and tests them
+- Gives practical tools: thought records, behavioural experiments, exposure
+- Strongly evidence-based for anxiety, depression, and works well alongside ADHD
+- Typically time-limited: 8–20 sessions
+
+Dialectical Behaviour Therapy (DBT):
+- Originally developed for emotion regulation difficulties
+- Teaches four skill sets: mindfulness, distress tolerance, emotion regulation, interpersonal effectiveness
+- Very useful for people with ADHD who struggle with intense emotions, impulsivity, and relationships
+- Can be delivered individually or in skills groups
+
+Acceptance and Commitment Therapy (ACT):
+- Focuses on accepting difficult thoughts and feelings rather than fighting them
+- Clarifies personal values and helps build a life aligned with them
+- Particularly helpful for the shame and avoidance cycles common in ADHD
+- Teaches "defusion" — seeing thoughts as just thoughts, not facts
+
+Person-Centred / Supportive Therapy:
+- Provides a warm, non-judgmental space to talk and feel heard
+- No agenda or structured techniques — the therapist follows your lead
+- Helpful when what you most need is to feel understood and not alone
+- Often used at the beginning of therapy or as an ongoing support
+
+Trauma-Informed Therapy:
+- Approaches that specifically address trauma and its effects on the body and mind
+- Includes EMDR (Eye Movement Desensitisation and Reprocessing) — well-researched for trauma
+- Important for people with ADHD who have accumulated trauma from years of criticism, failure, or difficult relationships
+
+WHAT TO EXPECT FROM YOUR FIRST APPOINTMENT
+--------------------------------------------
+
+With a psychiatrist:
+- They will ask about your symptoms, history, family history, sleep, and daily functioning
+- They may use standardised assessment tools
+- They may discuss a diagnosis, or say they need to see you again first
+- They may suggest medication, therapy, or both
+- You can ask questions: "What is this diagnosis?" "What are my options?" "What does this medication do?"
+
+With a therapist or psychologist:
+- The first session is usually an intake: they learn about you, you learn about them
+- You can ask about their approach, experience with ADHD, and what therapy will look like
+- It is normal for therapy to feel awkward at first — this usually passes
+- You are allowed to change therapists if the fit does not feel right
+
+ADHD ASSESSMENT IN INDIA
+--------------------------
+A formal ADHD diagnosis from a psychiatrist or clinical psychologist:
+- Involves a detailed clinical interview about childhood, school, work, and relationships
+- Standardised rating scales (Conners, DIVA, or similar) are often used
+- Collateral information (from parents or partners) is sometimes requested
+- A neuropsychological assessment may be conducted by a clinical psychologist to rule out other causes
+- The process typically takes 1–3 appointments
+- A written report can be issued if needed for accommodations at college or work
+
+MEDICATION FOR ADHD IN INDIA
+------------------------------
+Two main categories are available:
+
+Stimulant medication:
+- Methylphenidate (brand names include Ritalin, Concerta, Inspiral)
+- Requires a Schedule X prescription — more controlled than standard prescriptions
+- Available at larger pharmacies and hospital pharmacies in major cities
+- Can be harder to find in smaller towns or rural areas
+- Works by increasing dopamine and norepinephrine availability in the brain
+
+Non-stimulant medication:
+- Atomoxetine (brand names include Axetra, Attentrol, Strattera)
+- Easier to obtain — not Schedule X
+- Takes 4–6 weeks to reach full effect (unlike stimulants, which work the same day)
+- An option when stimulants are not suitable or available
+
+Important to understand:
+- Medication helps manage symptoms — it does not cure ADHD
+- Many people with ADHD do not take medication and manage well with therapy and strategies
+- Medication works best alongside therapy, structure, and self-understanding
+- Side effects vary by person; a psychiatrist adjusts dosage over time
+- Never stop prescribed medication abruptly without medical guidance
+
+WHAT IF I CANNOT AFFORD THERAPY?
+----------------------------------
+Therapy is expensive in India, but options exist:
+
+Government hospital OPDs:
+- Psychiatry OPDs are free or cost ₹10–50 per consultation
+- Available at every government hospital with a psychiatric department
+- The option many people don't realise is genuinely accessible
+
+Medical college psychiatry departments:
+- Often have both psychiatry and clinical psychology services
+- Supervised by qualified faculty; quality is generally good
+- More affordable than private practice
+
+iCall (TISS):
+- Sliding scale — you pay what you can genuinely afford
+- Worth contacting and explaining your financial situation honestly
+
+Online peer support (free):
+- Reddit (r/ADHD, r/IndianMentalHealth, r/adhdwomen) — anonymous, supportive communities
+- Not a replacement for therapy, but a meaningful source of connection and validation
+
+Self-help resources (free):
+- CBT workbooks and DBT worksheets are freely available online
+- Structured self-help alongside a supportive community can make a genuine difference while working toward professional support
