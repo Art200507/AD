@@ -1,3 +1,13 @@
+---
+title: AD
+emoji: 💙
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # Safe Space — Mental Health Support App
 
 A private, RAG-powered mental health companion for people in India living with ADHD and limited financial resources. Built with FastAPI + ChromaDB + Claude.
